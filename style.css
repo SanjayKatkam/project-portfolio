@@ -354,7 +354,7 @@ article .icon{
     flex-direction: column;
     height: 70vh;
 }
-.contact-info-upper-container{
+.contact-info-upper-containe{
     display: flex;
     justify-content: center;
     border-radius: 2rem;
@@ -364,14 +364,14 @@ article .icon{
     margin: 2rem auto;
     padding: 0.5rem;
 }
-.contact-info-container{
+.contact-info-container {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
     margin: 1rem;
 }
-.contact-info-container p{
+.contact-info-container p {
     font-size: large;
 }
 
