@@ -264,7 +264,10 @@ cursor: pointer;
     display: flex;
  }
  .about-pic{
-    border-radius: 2rem;
+    height: 350px;
+    width: 350px;
+    border-radius: 75%; 
+    margin: auto 25;
  }
  .arrow{
     position: absolute;
